@@ -21,6 +21,8 @@ Analyze and transform data into a dynamic dashboard that franchise owners can us
 -	Add slicer for store location and connect it to all pivot tables on the sheet.
 -	Adjust formatting and polish to finalize dashboard.
 
+## Dashboard
+![coffee shop sales dashboard](https://github.com/user-attachments/assets/adbe4e46-0719-4ecb-9428-eb6fa1083b1d)
 
 
 
