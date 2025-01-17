@@ -1,2 +1,7 @@
-# Data-Analysis-Coffee-Shop-Sales-Dashboard
-I developed a project in Excel, creating Pivot tables, Charts and a comprehensive dashboard to analyze the data. This process included different stages including data processing, creating pivot tables, different charts and data visualization.
+# Maven Roasters Coffee Shop Data Analysis Interactive Dashboard Creation using Excel
+##  Project Objective
+A franchise owner at Maven Roasters, a coffee shop chain with three locations in New York City has collected transactional data from Jan-Jun 2023. 
+Analyze and transform data into a dynamic dashboard that franchise owners can use to identify patterns, trends and opportunities for the business.
+
+
+
