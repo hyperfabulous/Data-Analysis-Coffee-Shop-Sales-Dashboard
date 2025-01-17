@@ -10,12 +10,13 @@ Analyze and transform data into a dynamic dashboard that franchise owners can us
 -	How many transactions were recorded?
 -	Over what period of time?
 -	What products and product categories were sold?
+<a href="https://github.com/hyperfabulous/Data-Analysis-Coffee-Shop-Sales-Dashboard/blob/main/coffee%20shop%20sales%20dashboard.png">view dashboard</a>
 
 ## Process
 -	Add new columns to calculate Revenue (price * quantity), Month, Day of the week (display them as text instead of numerical values), and transaction Hours based on time.
 -	Insert pivot tables on new tab to show Revenue by month, number of transactions by day of the week, hour of the day, by product category (sorted in descending order), and finally, number of transactions and revenue by product type (sorted in descending order and filtered to top 15, by transaction)
--	Add pivot charts to show revenue by month as Line chart; days of the week and hour of day as column chart; by product category as bar chart
--	Add pivot table to show top 15 product types 
+-	Add pivot charts to show revenue by month as Line chart; days of the week and hour of day as column chart; by product category as bar chart.
+-	Add pivot table to show top 15 product types. 
 -	Add slicer for store location and connect it to all pivot tables on the sheet.
 -	Adjust formatting and polish to finalize dashboard.
 
