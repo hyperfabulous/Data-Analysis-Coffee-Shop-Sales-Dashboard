@@ -24,6 +24,14 @@ Analyze and transform data into a dynamic dashboard that franchise owners can us
 ## Dashboard
 ![coffee shop sales dashboard](https://github.com/user-attachments/assets/adbe4e46-0719-4ecb-9428-eb6fa1083b1d)
 
+## Project Insight
+-	The month of June accounted for the highest revenue.
+-	Mondays, Wednesdays, Thursdays and Fridays were days where significantly higher transactions were made.
+-	The hours of 7am to 10am are the busiest hours of the day.
+-	Coffee and Tea happen to be the most ordered Products.
+-	Barista espresso, being fairly expensive and one of the most ordered, pulled in the highest revenue. 
+
+
 
 
 
