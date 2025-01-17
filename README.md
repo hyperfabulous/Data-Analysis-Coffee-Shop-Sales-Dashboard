@@ -10,6 +10,7 @@ Analyze and transform data into a dynamic dashboard that franchise owners can us
 -	How many transactions were recorded?
 -	Over what period of time?
 -	What products and product categories were sold?
+
 <a href="https://github.com/hyperfabulous/Data-Analysis-Coffee-Shop-Sales-Dashboard/blob/main/coffee%20shop%20sales%20dashboard.png">view dashboard</a>
 
 ## Process
