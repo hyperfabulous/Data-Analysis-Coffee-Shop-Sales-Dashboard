@@ -4,7 +4,8 @@ A franchise owner at Maven Roasters, a coffee shop chain with three locations in
 Analyze and transform data into a dynamic dashboard that franchise owners can use to identify patterns, trends and opportunities for the business.
 
 ## Dataset Used
-Free Data Sets & Dataset Samples | Maven Analytics
+<a href="https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=coffee%20shop">Coffee Shop Sales</a>
+
 
 
 
