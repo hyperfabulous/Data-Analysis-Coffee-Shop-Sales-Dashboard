@@ -29,7 +29,15 @@ Analyze and transform data into a dynamic dashboard that franchise owners can us
 -	Mondays, Wednesdays, Thursdays and Fridays were days where significantly higher transactions were made.
 -	The hours of 7am to 10am are the busiest hours of the day.
 -	Coffee and Tea happen to be the most ordered Products.
--	Barista espresso, being fairly expensive and one of the most ordered, pulled in the highest revenue. 
+-	Barista espresso, being fairly expensive and one of the most ordered, pulled in the highest revenue.
+
+## Conclusion and Recommendations
+  From the revenue trend across 6 months, Marvin Roasters coffee shop profit margin seem to be on a steady rise. However if any recommendation for further increase in revenue and profit margin is to be made,
+-	Extra production cost and stock increase could be allocated towards the top selling product category (Coffee, Tea and Bakery).
+-	Operating staff and extra hands could be transferred from the late closing hours of the day (6pm-8pm) and added to the early working hours (7am-11am) to improve sales and transaction frequency, maximizing revenue.
+-	Marketing campaigns to improve awareness of the availability of barista espresso could be made.
+-	Discounted offers for underperforming products could also be implemented.
+
 
 
 
